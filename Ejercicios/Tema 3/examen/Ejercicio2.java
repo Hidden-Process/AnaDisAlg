@@ -5,6 +5,13 @@ import java.util.Arrays;
 // Ejercicio correspondiente al primer parcial del curso 20-21.
 // Este ejercicio nos pide determinar si el vector s es subvector de v
 
+/* ENUNCIADO:
+
+Sea v un vector de n enteros distintos ordenados ascendentemente. Queremos comprobar si s, un segundo vector de 
+tamaño constante k, con k <= n, es subvector de v.
+
+*/
+
 public class Ejercicio2 {
 
     public static void main(String [] args){

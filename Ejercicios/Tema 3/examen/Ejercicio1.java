@@ -3,6 +3,14 @@ package examen;
 // Ejercicio correspondiente al primer parcial del curso 19-20
 // Mismo ejercicio preguntado en el curso 18-19 aunque con la diferencia de A[0] si puede ser 0
 
+/* ENUNCIADO:
+
+Sea un array ordenado estrictamente decreciente de numeros naturales, con A[0] = k> 0.
+Se pide obtener el menor elemento superior a k que no este en el array.
+Si están todos los elementos, el número que falta es el siguiente.
+
+*/
+
 public class Ejercicio1 {
 	
 	public static void main(String [] args) {
