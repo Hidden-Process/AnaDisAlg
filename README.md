@@ -8,4 +8,7 @@
 
 ### Divide y Vencerás:
 
+[QuickSort](https://github.com/Hidden-Process/AnaDisAlg/tree/main/Practicas/P2-QuickSort)
+
 [Ejercicios](https://github.com/Hidden-Process/AnaDisAlg/tree/main/Ejercicios/Tema%203)
+
