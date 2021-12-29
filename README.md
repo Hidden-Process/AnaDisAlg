@@ -6,11 +6,11 @@
 
 ## Bloque 2: Diseño de Algoritmos
 
+[Ejercicios](https://github.com/Hidden-Process/AnaDisAlg/tree/main/Ejercicios)
+
 ### Divide y Vencerás:
 
 ***QuickSort:*** [P2 - QuickSort](https://github.com/Hidden-Process/AnaDisAlg/tree/main/Practicas/P2-QuickSort)
-
-[Ejercicios](https://github.com/Hidden-Process/AnaDisAlg/tree/main/Ejercicios/Tema%203)
 
 ### Programación Dinámica y Algoritmos Voraces
 
